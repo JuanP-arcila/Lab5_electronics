@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Pasa_altas.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Pasa_altas.SchDoc|FileName=Pasa_bajas.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Pasa_altas.SchDoc|FileName=Pasa_bandas.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Pasa_altas.SchDoc|FileName=Rechaza_bandas.SchDoc|SheetNumber=4
